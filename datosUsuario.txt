@@ -1,0 +1,1 @@
+lo que hice fue crear un usuario llamado usuario y la contraseña es password123 le asige el rol by cliente de api-gateway-client que tiene el rol user
